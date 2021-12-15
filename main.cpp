@@ -8,5 +8,7 @@ int main() {
     file.open("submarineSonar.txt");
 
     file.close();
+
+    cout << "Just checking weather the git woriks properly" <<endl;
     return 0;
 }
